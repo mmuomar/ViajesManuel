@@ -1,0 +1,110 @@
+[
+{
+nombre: "Alemania",
+capital: "Berlín",
+img: "assets/img/alemania.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Austria",
+capital: "Viena",
+img: "assets/img/austria.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Bélgica",
+capital: "Bruselas",
+img: "assets/img/belgica.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Bulgaria",
+capital: "Sofia",
+img: "assets/img/bulgaria.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Eslovaquia",
+capital: "Bratislava",
+img: "assets/img/eslovaquia.png",
+anyo-visita: "2019"
+},
+{
+nombre: "España",
+capital: "Madrid",
+img: "assets/img/espana.png",
+anyo-visita: "1993"
+},
+{
+nombre: "Estados Unidos",
+capital: "Washington DC",
+img: "assets/img/estados-unidos.png",
+anyo-visita: "2011"
+},
+{
+nombre: "Estonia",
+capital: "Tallinn",
+img: "assets/img/estonia.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Grecia",
+capital: "Atenas",
+img: "assets/img/grecia.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Hungría",
+capital: "Budapest",
+img: "assets/img/hungria.png",
+anyo-visita: "2018"
+},
+{
+nombre: "Italia",
+capital: "Roma",
+img: "assets/img/italia.png",
+anyo-visita: "2009"
+},
+{
+nombre: "Letonia",
+capital: "Riga",
+img: "assets/img/letonia.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Lituania",
+capital: "Vilna",
+img: "assets/img/lituania.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Países Bajos",
+capital: "Ámsterdam",
+img: "assets/img/paises-bajos.png",
+anyo-visita: "2019"
+},
+{
+nombre: "Polonia",
+capital: "Varsovia",
+img: "assets/img/polonia.png",
+anyo-visita: "2018"
+},
+{
+nombre: "Portugal",
+capital: "Lisboa",
+img: "assets/img/portugal.png",
+anyo-visita: "2004"
+},
+{
+nombre: "Reino Unido",
+capital: "Londres",
+img: "assets/img/reino-unido.png",
+anyo-visita: "2010"
+},
+{
+nombre: "República Checa",
+capital: "Praga",
+img: "assets/img/republica-checa.png",
+anyo-visita: "2018"
+}
+];

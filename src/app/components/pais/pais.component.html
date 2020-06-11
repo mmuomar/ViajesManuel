@@ -1,0 +1,20 @@
+<h1>{{ pais.nombre | uppercase}}</h1>
+<hr>
+
+<div class="row">
+
+    <div class="col-md-4">
+
+        <img [src]="pais.img" class="img-fluid" [alt]="pais.nombre">
+        <br><br>
+        <a href="paises" class="btn btn-outline-danger btn-block">Regresar</a>
+    
+    </div>
+
+    <div class="col-md-8">
+        <p>Mi primera visita a {{pais.nombre}} fue en {{ pais.anyoVisita }}</p>
+        <p>Capital: {{ pais.capital }} </p>
+        <div>
+            <iframe [src]="url2 | safe" width="450" height="330" ></iframe>
+       </div>
+</div>

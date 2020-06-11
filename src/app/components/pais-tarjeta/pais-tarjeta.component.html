@@ -1,0 +1,10 @@
+<div class="card text-center animated fadeIn fast">
+    <img [src]="pais.img" style="width: 20em; height: 12em;" class="img-fluid card-img-top m-2 rounded border border-secondary" [alt]="pais.nombre">
+    <div class="card-body">
+      <h5 class="card-title">{{ pais.nombre }}</h5>
+      <p class="card-text">Año de primera visita: {{ pais.anyoVisita }}</p>      
+      
+      <button (click)="verPais()" type="button" class="btn btn-outline-primary btn-block">Ver más...</button>
+   
+  </div>
+</div>

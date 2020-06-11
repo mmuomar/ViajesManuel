@@ -1,0 +1,15 @@
+<h1 *ngIf="paises.length>0">Países encontrados por el término <small>{{ termino }}</small><hr></h1>
+
+
+<div class="row animated fadeIn fast" *ngIf="paises.length==0">
+    <div class="col-md-12">
+        <div class="alert alert-info" role="alert">
+            No existen resultados con el término {{ termino }}
+        </div>
+    </div>
+</div>
+
+
+<div class="card-columns">
+    <app-pais-tarjeta [pais]="pais" [index]="pais.idx" *ngFor="let pais of paises"></app-pais-tarjeta>   
+</div>

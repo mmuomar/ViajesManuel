@@ -1,0 +1,8 @@
+<h1>Países visitados</h1>
+<hr>
+
+<div class="card-columns">
+
+    <app-pais-tarjeta (paisSeleccionado)="verPais( $event )" [pais]="pais" [index]="i" *ngFor="let pais of paises; let i = index"></app-pais-tarjeta>   
+
+</div>
